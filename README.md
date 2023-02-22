@@ -1,2 +1,2 @@
 # Python101
-learn Python with Uncle Engineer
+learn Python1o1 with Uncle Engineer
